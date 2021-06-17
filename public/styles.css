@@ -1,0 +1,13 @@
+#task-list {
+    padding: 16px;
+}
+
+#task-list li {
+    padding: 8px;
+    border: 1px solid black;
+    background: green;
+}
+
+#task-list li.important {
+    background: red;
+}
